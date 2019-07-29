@@ -24,5 +24,8 @@
       ]
     },
     "skipLibCheck": true
-  }
+  },
+  "angularCompilerOptions": {
+    "strictMetadataEmit": true
+  },
 }
